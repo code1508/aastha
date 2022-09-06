@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    text-align: center;
+    background-color: white;
+}
+
+
+.container{
+    position: relative;
+}
+
+/* img{
+    height: 120px;
+    width: 120px;
+    background-color: aqua;
+    width: 10%;
+
+} */
+h1{
+    font-family: cursive;
+}
+.web{
+    text-decoration: underline;
+}
+
+.bottomcloud{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+}
+.topcloud{
+    width: 150px;
+    height: 100px;
+    
+}
